@@ -1,4 +1,4 @@
-package pl.shonsu.patterns.structural.dekorator;
+package pl.shonsu.patterns.creational.decorator;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
