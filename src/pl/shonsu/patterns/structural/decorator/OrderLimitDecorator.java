@@ -1,4 +1,4 @@
-package pl.shonsu.patterns.creational.decorator;
+package pl.shonsu.patterns.structural.decorator;
 
 class OrderLimitDecorator extends CalculateOrderDecorator {
     public OrderLimitDecorator(CalculateOrder order) {

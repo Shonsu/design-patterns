@@ -1,4 +1,4 @@
-package pl.shonsu.patterns.creational.decorator;
+package pl.shonsu.patterns.structural.decorator;
 
 import java.math.BigDecimal;
 import java.util.List;

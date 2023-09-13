@@ -2,12 +2,14 @@
 _Understanding working concept of patterns_
 
 * Behavioral
-  - Observer 
+  - Observer
+  - Visitor
 
 * Creational
   - Abstract Factory
-  - Decorator
+  - Builder
   - Factory Method
 
 * Structural
   - Adapter
+  - Decorator

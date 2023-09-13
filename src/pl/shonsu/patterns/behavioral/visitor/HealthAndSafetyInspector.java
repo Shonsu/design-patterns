@@ -1,4 +1,4 @@
-package pl.shonsu.patterns.structural.visitor;
+package pl.shonsu.patterns.behavioral.visitor;
 
 public class HealthAndSafetyInspector implements Visitor{
     @Override

@@ -1,4 +1,4 @@
-package pl.shonsu.patterns.structural.visitor;
+package pl.shonsu.patterns.behavioral.visitor;
 
 import java.util.ArrayList;
 import java.util.List;
