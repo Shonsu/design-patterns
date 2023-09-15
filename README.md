@@ -4,6 +4,7 @@ _Understanding working concept of patterns_
 * Behavioral
   - Observer
   - Visitor
+  - Strategy
 
 * Creational
   - Abstract Factory
